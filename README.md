@@ -10,4 +10,4 @@ things that I finally understand. The goal for this repo is to document my learn
 - weekly notes on what I learned and what confused me
 - summaries of BCI and neurotech papers I read
 - math concepts I'm working through (calculus, linear algebra, neural nets)
-- questions I want to eventually answer
+- questions I want to eventually answer  
