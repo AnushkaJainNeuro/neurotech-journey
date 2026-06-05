@@ -1,0 +1,13 @@
+# Day 01 - June 5, 2026
+**Main Focus:** Variables, input, types, and writing my first functions.
+
+## What I learned
+- Got comfortable with variables, input, and integers, and started defining my own functions. I understood why defining my own functions can be important during a project as it helps an outsider read the code better and keep it clean.
+- The difference between strings and integers. More about how each works and when you'd use one over the other.
+- I looked through the official Python documentation, where the predetermined functions are all written out and explained. Good to know where to look things up instead of guessing.
+- Assignment syntax and naming conventions.
+
+## Today's win
+- Wrote my own functions and developed a palindrome detector. Understood how my function and defining it made the code clearer rather than just copying the syntax.
+
+
